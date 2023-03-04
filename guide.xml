@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="AE2014">
+    <display-name lang="pt">AE2014</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="Campinas/SP  CANAL-SONY">
+    <display-name lang="pt">Campinas/SP  CANAL-SONY</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Cinemax-HD ³">
+    <display-name lang="pt">Cinemax-HD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="FX2014">
+    <display-name lang="pt">FX2014</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="hbo">
+    <display-name lang="pt">hbo</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+</tv>
